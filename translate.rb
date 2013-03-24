@@ -1,4 +1,4 @@
-require './pig_latin.rb'
+require './pig_latin_translator.rb'
 
 translator = PigLatinTranslator.new
 
